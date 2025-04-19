@@ -1,5 +1,7 @@
 # Diabetes-Prediction-System
 
+Deploy Link: https://diabetes-predictor-1px2.onrender.com
+
 ![home](https://user-images.githubusercontent.com/64016811/198817377-0eef049f-5ef0-414e-97e1-a1cba823346f.png)
 
 ### Problem : 
